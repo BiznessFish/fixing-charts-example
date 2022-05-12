@@ -1,5 +1,5 @@
 # fixing-charts-example
-A Lab assignment completed in the Data Science course at Johns Hopkins University. We take some bad charts and make them better!
+Let's take some bad charts and make them better!
 
 Each chart here was taken out of context and (generally) without backstory. The idea here was to look at any given chart and create a better one from it.
 
